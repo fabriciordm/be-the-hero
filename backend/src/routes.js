@@ -18,4 +18,5 @@ routes.delete('/incidents/:id',IncidentController.delete);
 
 console.log('teste');
 
+
 module.exports= routes;
